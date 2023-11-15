@@ -1,0 +1,15 @@
+.event-card {
+    border-radius: 6px;
+    padding: 10px;
+    margin: 20px 10px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+.textboxes {
+    margin: 10px 0px;
+    width: 100%;
+}
+
+.a-btn {
+    margin: 10px 0px;
+}
